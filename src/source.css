@@ -19,7 +19,7 @@
 }
 
 :root {
-  --indicator-hover: var(--background-modifier-hover);
+  --indicator-hover: var(--background-mod-subtle);
   --indicator-unread-border: hsla(var(--indicator-unread)/0.75);
   --indicator-unread-background: hsla(var(--indicator-unread)/0.05);
   --indicator-unread-hover-background: hsla(var(--indicator-unread)/0.10);

@@ -164,3 +164,6 @@
 .channel__972a0 .interactive_bf202d {
   background: transparent;
 }
+.voiceChannelHighlightBorder_c69b6d, .voiceChannelHighlightGlow_c69b6d {
+  display: none;
+}
